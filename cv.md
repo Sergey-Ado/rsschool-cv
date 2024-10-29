@@ -11,3 +11,29 @@
 ## About Me
 
 I'm a design engineer. I often develop programs for solving physical and mathematical problems on a personal computer. I like to program and to learn new things in this field. I want to gain enough knowledge and practice to develop websites and applications for mobile devices.
+
+## Skills
+
+- Delphi
+- JavaScript
+- TypeScript
+- Node.js
+- NestJS
+- Git, GitHub
+
+## Example code
+
+```
+function dayPlan (hours, tasks, duration){
+  if (!tasks) return [];
+  let schedule = [];
+  let rest = Math.round((60*hours-tasks*duration)/(tasks-1));
+  if (rest<0) return 'You\'re not sleeping tonight!';
+  for (let i=1; i<tasks; i++){
+    schedule.push(duration);
+    schedule.push(rest);
+  }
+  schedule.push(duration);
+  return schedule;
+}
+```
