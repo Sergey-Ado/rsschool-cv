@@ -37,3 +37,18 @@ function dayPlan (hours, tasks, duration){
   return schedule;
 }
 ```
+
+## Experience
+
+I have no experience in the field of front-end development
+
+## Education
+
+- Samara State University, Faculty of Physics, specialty of general and theoretical physics
+- NodeJS 2024 Q1
+- JS/FE Pre-School 2024Q2
+
+## Languages
+
+- Russian - native
+- English - A1
