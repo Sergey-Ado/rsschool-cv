@@ -20,6 +20,8 @@ I'm a design engineer. I often develop programs for solving physical and mathema
 - Node.js
 - NestJS
 - Git, GitHub
+- Angular (beginning)
+- React (beginning)
 
 ## Example code
 
@@ -47,6 +49,7 @@ I have no experience in the field of front-end development
 - Samara State University, Faculty of Physics, specialty of general and theoretical physics
 - NodeJS 2024 Q1
 - JS/FE Pre-School 2024Q2
+- JavaScript/Front-end 2024Q4
 
 ## Languages
 
